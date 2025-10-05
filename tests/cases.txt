@@ -1,0 +1,3 @@
+This  is   a    sample   text with    many spaces indeed!!!
+aaaaabbbbcccccaaaabbbbcccccaaaaabbbbccccc!!!!!??????
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz !@#$%^&*()
