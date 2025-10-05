@@ -70,9 +70,9 @@ It also includes:
 - Portability: compiles with `g++ -std=c++17` without external dependencies.
 - Error handling: empty input, < 30 characters, or outside ASCII 32–126.
 
-## Defense Video
+## Support video
 
-url
+- https://youtu.be/zFz7df2Ypy0
 
 ## Organized Output
 - ASCII tables aligned for frequencies, lengths, and codes.
